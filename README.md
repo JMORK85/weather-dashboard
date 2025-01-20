@@ -14,7 +14,7 @@ This project is a Weather Data Collection System that demonstrates core DevOps p
 - Error Handling
 - Environment Management
 
-## Architectural Overview Diagram
+## Architecture Overview
 
 <img src="https://i.imgur.com/pRq2G11.png"/>
 
