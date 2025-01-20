@@ -1,6 +1,6 @@
 # DevOps Challenge - Weather Dashboard
 
-Day 1: Building a weather data collection system using AWS S3 and OpenWeather API
+Building a weather data collection system using AWS S3 and OpenWeather API
 
 # Weather Data Collection System - DevOps Week 1 Challenge
 
@@ -14,9 +14,13 @@ This project is a Weather Data Collection System that demonstrates core DevOps p
 - Error Handling
 - Environment Management
 
+## Architectural Overview Diagram
+
+<img src="https://i.imgur.com/pRq2G11.png"/>
+
 ## Features
 - Fetches real-time weather data for multiple cities
-- Displays temperature (°F), humidity, and weather conditions
+- Displays temperature (°C), humidity, and weather conditions
 - Automatically stores weather data in AWS S3
 - Supports multiple cities tracking
 - Timestamps all data for historical tracking
