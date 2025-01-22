@@ -33,6 +33,26 @@ This project is a Weather Data Collection System that demonstrates core DevOps p
   - boto3 (AWS SDK)
   - python-dotenv
   - requests
+ 
+## Project Prerequisites
+- Python script for Weather Dashboard
+- Basic knowledge of AWS Services, S3 and IAM
+- AWS Access Key and Secret Key
+- OpenWeatherAPI Key (Account needs to be created: https://home.openweathermap.org/users/sign_in)
+- IDE (I used Visual Studio Code)
+
+## Project Walkthrough - Step 1: Create Directories and Files in Local Environment
+- Using (git) bash in VS Code terminal I created 3 directories with the names data, src and tests. Our src folder holds all of our main code which will drive the process. The tests folder is for unit testing, DevOps best practices. And the data folder is for local storage when doing development testing.  
+<img src="https://i.imgur.com/pMo0JBT.png)"/>
+<img src="https://i.imgur.com/ajqZIbZ.png)"/>
+
+- Next I created __init__.py and weather_dashboard.py files in the src directory. The init file makes our directory a python package and allows imports between different files. The weather_dashboard.py is our python script which will drive the process.
+<img src="https://i.imgur.com/x3ebQh5.png)"/>
+<img src="https://i.imgur.com/tR54dDK.png)"/>
+
+- Final step for the project (directory) structure I created a requirements.txt, README.md and .env file in the root directory. The requirements text file details everything required to run this Project. 
+<img src="https://i.imgur.com/ohVaD88.png)"/>
+<img src="https://i.imgur.com/p6EFZJM.png)"/>
 
 ```markdown
 ## Project Structure
