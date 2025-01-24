@@ -39,7 +39,7 @@ This project is a Weather Data Collection System that demonstrates core DevOps p
 - Basic knowledge of AWS Services, S3 and IAM
 - AWS account with AWS Access Key and Secret Key
 - OpenWeatherAPI Key (Account needs to be created: https://home.openweathermap.org/users/sign_in)
-- IDE (I used Visual Studio Code)
+- IDE (I use Visual Studio Code)
 
 ## Project Walk-through
 ## Step 1: Create Directories and Files in Local Environment
